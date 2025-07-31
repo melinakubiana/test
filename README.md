@@ -1,8 +1,3 @@
 # test
-def sum(a, b):
-    return (a + b)
-
-a = int(input('Enter 1st number: '))
-b = int(input('Enter 2nd number: '))
-
-print(f'Sum of {a} and {b} is {sum(a, b)}')
+this is to test how git hub works and how i can navigate through it to best show my work.
+this is my first testing of the webiste.
